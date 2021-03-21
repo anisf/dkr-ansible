@@ -1,0 +1,8 @@
+wheel
+ansible-lint
+molecule-docker
+docker-compose
+google-auth
+jmespath
+wheel
+openshift
